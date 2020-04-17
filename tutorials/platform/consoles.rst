@@ -31,6 +31,8 @@ your games to various consoles.
 
 Following is the list of providers:
 
+* `Poppy Works <http://poppy.works/>`_ offers
+  Nintendo, PlayStation and Xbox One porting and publishing of Godot games.
 * `Lone Wolf Technology <http://www.lonewolftechnology.com/>`_ offers
   Switch, PS4 and Xbox One porting and publishing of Godot games.
 * `Pineapple Works <https://pineapple.works/>`_ offers 
